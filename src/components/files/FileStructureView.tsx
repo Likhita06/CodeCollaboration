@@ -74,13 +74,13 @@ function FileStructureView() {
                     >
                         <RiFolderAddLine size={20} />
                     </button>
-                    <button
+                    {/* <button
                         className="rounded-md px-1 hover:bg-darkHover"
                         onClick={collapseDirectories}
                         title="Collapse All Directories"
                     >
                         <RiFolderUploadLine size={20} />
-                    </button>
+                    </button> */}
                 </div>
             </div>
             <div
